@@ -64,10 +64,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "angularmatrimony:build:production"
+              "buildTarget": "angularmatrimony:build:production"
             },
             "development": {
-              "browserTarget": "angularmatrimony:build:development"
+              "buildTarget": "angularmatrimony:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -75,7 +75,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "angularmatrimony:build"
+            "buildTarget": "angularmatrimony:build"
           }
         },
         "test": {
@@ -97,5 +97,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "cf9647f8-1e2f-4f37-8da7-7d3722de7f08"
   }
 }

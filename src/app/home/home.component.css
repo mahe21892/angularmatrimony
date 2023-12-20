@@ -1,0 +1,24 @@
+.logoalign {
+  text-align: center
+}
+
+.logoimg {
+  width: 200px;
+}
+
+button {
+  background-color: #000;
+  border: .5px solid crimson;
+  border-radius: 10px;
+  color: #fff;
+  padding: 8px;
+}
+
+.imgnav {
+  background-color: blue;
+  width: 1500px;
+  height: 300px;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}

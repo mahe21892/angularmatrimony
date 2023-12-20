@@ -1,0 +1,26 @@
+{
+    "image": [
+        "assets/images/heroine_7.jpg",
+        "assets/images/heroine_8.jpg",
+        "assets/images/heroine_9.jpg",
+        "assets/images/heroine_10.jpg",
+        "assets/images/heroine_11.jpg",
+        "assets/images/heroine_12.jpg"
+    ],
+    "name": [
+        "Shalini",
+        "Trisha",
+        "Monisha",
+        "Jothiga",
+        "Lavanya",
+        "Ashvini"
+    ],
+    "title": [
+        "25Yrs, 5Ft, MBBS, Doctor,Poosaum, Hindu-Kayastha, Chennai, Tamilnadu.",
+        "26Yrs, 5.1Ft, Tamil, MBA, Aries, Hindu, Madurai, Tamilnadu.",
+        "28Yrs, 4.9Ft, Telugu, BE, Scorpio, Hindu, Madurai, Tamilnadu.",
+        "25Yrs, 5.2Ft, Kannada, BBL, Leo, Hindu, Coimbatore, Tamilnadu.",
+        "27Yrs, 5Ft, Tamil, Bsc, Virgo, Christian, Salem, Tamilnadu.",
+        "29Yrs, 4.9Ft, Tamil, Bcom, Libra, Hindu, Chennai, Tamilnadu."
+    ]
+}

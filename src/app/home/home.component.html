@@ -1,0 +1,9 @@
+  <div class='logoalign'>
+    <img class='logoimg' src="assets/images/{{path}}.png" alt="Your Logo" />
+  </div>
+  <div class='imgnav'>
+    <ng-image-slider #nav [images]="imageObject" [infinite]="false" [autoSlide]="1"
+      [imageSize]="{width: '50%', height: 400}" slideImage="1">
+    </ng-image-slider>
+    <button type="button" (click)="recomendPageNavigate()">Recomended Profile</button>
+  </div>

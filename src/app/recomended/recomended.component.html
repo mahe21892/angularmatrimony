@@ -1,0 +1,16 @@
+<mat-card>
+  <div class="imgalign">
+    <img class="imgsize" mat-card-image src="{{path}}" />
+  </div>
+  <mat-card-content>
+    <p class="imgalign">
+      <strong>{{name}}</strong><br>
+      {{content}}
+    </p>
+  </mat-card-content>
+  <mat-card-actions align="end">
+    <p>Like her?</p>
+    <button (click)="intersted()" mat-button>Yes 👍</button>
+    <button (click)="notIntersted()" mat-button>No 👍</button>
+  </mat-card-actions>
+</mat-card>

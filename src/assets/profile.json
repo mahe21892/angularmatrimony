@@ -1,0 +1,26 @@
+{
+    "image": [
+        "assets/images/heroine_1.jpg",
+        "assets/images/heroine_2.jpg",
+        "assets/images/heroine_3.jpg",
+        "assets/images/heroine_4.jpg",
+        "assets/images/heroine_5.jpg",
+        "assets/images/heroine_6.jpg"
+    ],
+    "thumbImage": [
+        "assets/images/heroine_1.jpg",
+        "assets/images/heroine_2.jpg",
+        "assets/images/heroine_3.jpg",
+        "assets/images/heroine_4.jpg",
+        "assets/images/heroine_5.jpg",
+        "assets/images/heroine_6.jpg"
+    ],
+    "title": [
+        "Priyanka 27Yrs, 5Ft, Tamil, Nair, MBBS, Doctor, Chennai, Tamilnadu.",
+        "Rama 26Yrs, 5.1Ft, Tamil, MBA, Madurai, Tamilnadu.",
+        "Srinithi 28Yrs, 4.9Ft, Telugu, BE, Madurai, Tamilnadu.",
+        "Kumari 25Yrs, 5.2Ft, Kannada, BBL, Coimbatore, Tamilnadu.",
+        "Lakshmi 27Yrs, 5Ft, Tamil, Bsc, Salem, Tamilnadu.",
+        "Selvi 29Yrs, 4.9Ft, Tamil, Bcom, Chennai, Tamilnadu."
+    ]
+}
